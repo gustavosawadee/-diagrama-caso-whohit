@@ -1,1 +1,1 @@
-# -diagrama-caso-whohit
+# diagrama-caso-whohit
